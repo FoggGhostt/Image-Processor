@@ -4,6 +4,7 @@
 #include <bit>
 #include <fstream>
 #include <string_view>
+#include <concepts>
 
 namespace image_processor::io {
 
