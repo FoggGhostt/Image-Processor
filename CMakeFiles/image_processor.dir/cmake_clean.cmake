@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/image_processor.dir/bin/main.o"
+  "CMakeFiles/image_processor.dir/bin/main.o.d"
+  "CMakeFiles/image_processor.dir/src/args/args.o"
+  "CMakeFiles/image_processor.dir/src/args/args.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/crop.o"
+  "CMakeFiles/image_processor.dir/src/filters/crop.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/edge.o"
+  "CMakeFiles/image_processor.dir/src/filters/edge.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/filter.o"
+  "CMakeFiles/image_processor.dir/src/filters/filter.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/grayscale.o"
+  "CMakeFiles/image_processor.dir/src/filters/grayscale.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/matrix_filter.o"
+  "CMakeFiles/image_processor.dir/src/filters/matrix_filter.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/negative.o"
+  "CMakeFiles/image_processor.dir/src/filters/negative.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/registry.o"
+  "CMakeFiles/image_processor.dir/src/filters/registry.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/sharpening.o"
+  "CMakeFiles/image_processor.dir/src/filters/sharpening.o.d"
+  "CMakeFiles/image_processor.dir/src/image/color.o"
+  "CMakeFiles/image_processor.dir/src/image/color.o.d"
+  "CMakeFiles/image_processor.dir/src/image/image.o"
+  "CMakeFiles/image_processor.dir/src/image/image.o.d"
+  "CMakeFiles/image_processor.dir/src/image_format/bmp.o"
+  "CMakeFiles/image_processor.dir/src/image_format/bmp.o.d"
+  "CMakeFiles/image_processor.dir/src/image_format/format.o"
+  "CMakeFiles/image_processor.dir/src/image_format/format.o.d"
+  "CMakeFiles/image_processor.dir/src/io/reader.o"
+  "CMakeFiles/image_processor.dir/src/io/reader.o.d"
+  "CMakeFiles/image_processor.dir/src/io/writer.o"
+  "CMakeFiles/image_processor.dir/src/io/writer.o.d"
+  "CMakeFiles/image_processor.dir/src/utils/matrix.o"
+  "CMakeFiles/image_processor.dir/src/utils/matrix.o.d"
+  "image_processor"
+  "image_processor.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/image_processor.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
